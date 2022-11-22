@@ -75,7 +75,7 @@ header{
 }
 .Second-container{
   background-color: black;
-  height: 130vh;
+  height: 90vh;
   border: 6px solid rgb(37, 36, 36);
 }
 .row{
@@ -85,7 +85,7 @@ header{
   justify-content:  space-between;
   align-items: center;
   padding: 0 30px;
-  margin: 150px auto;
+  margin: 10px auto;
 }
 .column0ne{
   color: white;
@@ -114,7 +114,62 @@ header{
   width: 550px;
   height: 30vh;
   position: absolute;
-  bottom:-490px;
+  bottom:-350px;
   left: 700px;
 
 }
+.Third-section{
+  background-color: black;
+  height: 90vh;
+  border: 6px solid rgb(37, 36, 36);
+}
+.mobile{
+  width: 80%;
+  position: relative;
+}
+.column0neo{
+  width: 45%;
+}
+.columntw02{
+  color: white;
+  width: 45%;
+  
+}
+.rowstwo{
+  width: 90%;
+  height: 60vh;
+  display: flex;
+  justify-content:  space-between;
+  align-items: center;
+  padding: 0 30px;
+  margin: 10px auto;
+}
+.big{
+  font-size: 50px;
+}
+  .save{
+    margin-top: 20px;
+  }
+  .box{
+    width: 20%;
+  }
+  .new{
+    position: absolute;
+    width: 20%;
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border:1px solid grey;
+    padding: 10px 20px;
+    border-radius: 10px;
+    left: 175px;
+    bottom:-900px;
+    background-color: black;
+  }
+  .str{
+    color: white;
+  }
+  .down{
+    color: blue;
+  }
