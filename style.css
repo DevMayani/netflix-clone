@@ -75,6 +75,46 @@ header{
 }
 .Second-container{
   background-color: black;
-  height: 80vh;
+  height: 130vh;
   border: 6px solid rgb(37, 36, 36);
+}
+.row{
+  width: 90%;
+  height: 60vh;
+  display: flex;
+  justify-content:  space-between;
+  align-items: center;
+  padding: 0 30px;
+  margin: 150px auto;
+}
+.column0ne{
+  color: white;
+  font-size: xx-large;
+  height: 50vh;
+  width: 45%;
+  padding: 150px 30px;
+}
+.columntw0{
+
+  height: 40vh;
+  width: 45%;
+ 
+}
+.hee{
+  font-size: 1.625rem;
+    font-weight: 400;
+    margin-top: 15px;
+}
+.tv{
+  width: 500px;
+  height: 60vh;
+  position: relative;
+}
+.our-story-card-video{
+  width: 550px;
+  height: 30vh;
+  position: absolute;
+  bottom:-490px;
+  left: 700px;
+
 }
