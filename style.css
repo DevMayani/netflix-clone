@@ -114,8 +114,8 @@ header{
   width: 550px;
   height: 30vh;
   position: absolute;
-  bottom:-350px;
-  left: 700px;
+  bottom:-320px;
+  left: 630px;
 
 }
 .Third-section{
@@ -225,7 +225,7 @@ header{
   }
   .Sixth-section{
     background-color: black;
-    height: 150vh;
+    height: 170vh;
     border: 6px solid rgb(37, 36, 36);
     color: white;
   }
@@ -272,8 +272,17 @@ header{
     margin-top: 60px;
   }
   .inptys{
-    width: 40%;
+    width: 50%;
     height:60px;
     color: grey;
     font-size: x-large;
+  }
+  .footer{
+    background-color: black;
+    height: 150vh;
+    border: 6px solid rgb(37, 36, 36);
+    color: white;
+  }
+  .last{
+    padding: 20px 30px;
   }
