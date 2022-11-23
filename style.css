@@ -173,3 +173,107 @@ header{
   .down{
     color: blue;
   }
+  .Fouth-container{
+    background-color: black;
+    height: 40vh;
+    border: 6px solid rgb(37, 36, 36);
+    color: white;
+    padding: 30px 170px;
+  }
+  .watch{
+    font-size: 60px;
+    font-weight: bold;
+  }
+  .phon{
+    line-height: 30px;
+    margin-left: 20px;
+  }
+  .Fifth-section{
+    background-color: black;
+    height: 90vh;
+    border: 6px solid rgb(37, 36, 36);
+    color: white;
+  }
+  .rowss{
+    width: 90%;
+  height: 60vh;
+  display: flex;
+  justify-content:  space-between;
+  align-items: center;
+  padding: 0 30px;
+  margin: 10px auto;
+  }
+  .cols{
+    color: white;
+    width: 45%;
+  }
+  .col{
+    color: white;
+    width: 45%;
+  }
+  .kids{
+    width: 90%;
+  }
+  .free{
+    font-size: 50px;
+    font-weight: bold;
+  }
+  .send{
+    margin-top: 20px;
+    font-size: larger;
+    line-height: 20px;
+  }
+  .Sixth-section{
+    background-color: black;
+    height: 150vh;
+    border: 6px solid rgb(37, 36, 36);
+    color: white;
+  }
+  .faq{
+   padding: 30px 100px;
+  }
+  .ord{
+    list-style: none;
+   text-decoration: none;
+  }
+  .frq{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+  }
+  .plu-btn{
+    width: 70%;
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px auto;
+    background-color: gray;
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+    gap: 480px;
+  }
+  .plus-btn{
+    width: 70%;
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px auto;
+    background-color: gray;
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+    gap: 360px;
+  }
+  .to{
+    text-align: center;
+    margin-top: 60px;
+  }
+  .inptys{
+    width: 40%;
+    height:60px;
+    color: grey;
+    font-size: x-large;
+  }
