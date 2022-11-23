@@ -279,10 +279,22 @@ header{
   }
   .footer{
     background-color: black;
-    height: 150vh;
+    height: 50vh;
     border: 6px solid rgb(37, 36, 36);
     color: white;
+    padding: 30px 0;
   }
-  .last{
-    padding: 20px 30px;
+  .que{
+    font-weight: 100;
+    padding: 20px 200px;
+    color: grey;
+  }
+  .rowsss{
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 120px;
+    line-height: 40px;
+    /* margin-right: 170px; */
+    color: grey;
   }
